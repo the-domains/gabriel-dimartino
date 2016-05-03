@@ -1,9 +1,7 @@
-favicon: null
 name: Gabriel DiMartino
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2204301
+typography_spectrum: 0.81601
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4375
-  brandStrength: 1
-  rhythmicContrast: 0.6936558547895402
   brandColors:
     - '#000000'
     - '#898886'
     - '#b3b3b3'
     - '#302f2b'
     - '#d5dadf'
+  brandStrength: 1
   lightness: 0.375
-typography_spectrum: 0.7048991865012795
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2204301
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.4375
+  rhythmicContrast: 0.6936558547895402
+purpose: []
